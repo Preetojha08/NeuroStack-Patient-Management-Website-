@@ -21,7 +21,7 @@ export default function AssistantPalHero() {
           
           <div className="md:w-1/2 flex justify-center">
             <img 
-              src={ApHeroBg} 
+              src={ApHeroBg}
               alt="NeuroAssist PAL" 
               className="w-full md:w-[100%] lg:w-[100%] h-auto"
             />
